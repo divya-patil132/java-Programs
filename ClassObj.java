@@ -3,11 +3,11 @@ public class ClassObj {
     public static void main(String args[]) {
         Person p1 = new Person();
         p1.age = 20;
-        p1.name = "kunal";
+        p1.name = "Divya";
 
         Person p2 = new Person();
         p2.age = 30;
-        p2.name = "Anuj";
+        p2.name = "Nakul";
 
         System.out.println(p1.age + " " + p1.name);
         p1.eat();
@@ -28,6 +28,7 @@ class Person {
     void eat() {
         System.out.println(name + " is eating");
     }
+
 
 
 }
