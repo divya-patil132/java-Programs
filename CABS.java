@@ -11,6 +11,7 @@ class Codechef
 	{
 		// firstCab X rupees
 		// secondCab Y rupees
+
 		
 		Scanner sc = new Scanner(System.in);
 		
