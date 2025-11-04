@@ -5,6 +5,7 @@ public class ArrayCreation {
         System.out.println(num[1]);
 
 //        dynamic array
+        
         int nums[] = new int[4];
         nums[0] = 12;
         nums[1] = 2;
@@ -40,3 +41,4 @@ public class ArrayCreation {
 
     }
 }
+
