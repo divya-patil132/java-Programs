@@ -8,8 +8,10 @@ class A {
 }
 
 public class AnonomyosObject {
+    
     public static void main(String[] args) {
         new A().show(); // anonoymns object
 
     }
 }
+
