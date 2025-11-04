@@ -20,7 +20,21 @@ The directory structure is organized as follows:
         - DataTypes.java
         - GradeCal.java
         - SwtichCase.java
-       
+        - 
+    - day-02
+       - LoopInJava.java
+       - WhilleLoop.java
+       - doWhile.java
+       - ArraysInJava.java
+       - TwoDArray.java
+       - UserDefinedMethods.java
+       - ExcepHandle.java
+       - ClassObj.java
+       - MoreOnFunctions.java
+       - .java
+       - .java    
+      
+    
     
        
        
