@@ -8,34 +8,7 @@
 This repository contains a collection of Java codes that I write daily to improve my programming skills.
 The codes are organized by day and can be found in the corresponding directory.
 
-## Directory Structure
-The directory structure is organized as follows:
 
-- daily-java-codes
-    - day-01
-        - HelloWorld.java
-        - ArithmeticOperators.java
-        - TakingInput.java
-        - CheckVotingEligibility.java
-        - DataTypes.java
-        - GradeCal.java
-        - SwtichCase.java
-        - 
-    - day-02
-       - LoopInJava.java
-       - WhilleLoop.java
-       - doWhile.java
-       - ArraysInJava.java
-       - TwoDArray.java
-       - UserDefinedMethods.java
-       - ExcepHandle.java
-       - ClassObj.java
-       - MoreOnFunctions.java
-       - .java
-       - .java    
-      
-    
-    
        
        
       
